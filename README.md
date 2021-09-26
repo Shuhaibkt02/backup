@@ -1,0 +1,2 @@
+# backup
+django project
